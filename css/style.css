@@ -1,0 +1,76 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    padding-top: 70px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 0;
+  /*text-align: center;*/
+}
+
+h3 {
+  margin: 0;
+}
+
+table {
+  font-size: 14px;
+  text-align: left;
+}
+
+th, td {
+  vertical-align: top;
+}
+
+td {
+  color: #666;
+  padding-left: 10px;
+}
+
+hr {
+  border: 0.5px solid #eee;
+}
+
+.row {
+  /*background-color: #f3f3f3;*/
+  color: black;
+  /*border: 1px solid #000;*/
+}
+
+.rita{
+  border: 1px solid #000;
+}
+
+.center-inner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*menu*/
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+#about, #my-work, #contact-me{
+  padding-top: 70px;
+}
+
+
+
+
+
+
+
+
