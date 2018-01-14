@@ -12,12 +12,13 @@ body {
 }
 
 h1 {
-  margin-bottom: 0;
+  margin-bottom: 20px;
   /*text-align: center;*/
+
 }
 
 h3 {
-  margin: 0;
+  margin-bottom: 20px;
 }
 
 table {
